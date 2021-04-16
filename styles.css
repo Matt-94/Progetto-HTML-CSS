@@ -258,7 +258,7 @@ button:focus {
 
 /* Media */
 
-@media all and (max-width:900px) {
+@media all and (max-width:768px) {
   .hrc {
     padding: 3em;
     border-top: 1px black solid;
