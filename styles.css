@@ -261,6 +261,7 @@ button:focus {
 @media screen and (max-width:768px) {
   body {
     background-color: black;
+  }
   .hrc {
     padding: 3em;
     border-top: 1px black solid;
